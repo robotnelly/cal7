@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+header {
+    background: black;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+figure {
+    margin: 0;
+    display: inline-block;
+}
+
+header section {
+    display: inline-block;
+    width: 67;
+    
+}
+
+input button{
+    background: red;
+
+}
+
+input {
+    border-radius: 6px;
+}
+
+h1 {
+    margin: 0;
+}
+
+header figure h1 {
+    color: white;
+}
